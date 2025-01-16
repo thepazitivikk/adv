@@ -1,7 +1,1 @@
-{
-  "files": {
-    "fpc.json": {
-      "content": "{\"tag\": \"20250116_announ33ceme2nt_1\", \"type\": 1, \"text\": \"Это новое объявление!!!! Проверьте его прямо сейчас!\", \"ph\": \"https://example.com/photo.jpg\", \"pin\": true, \"kb\": [[{\"text\": \"Перейти\", \"url\": \"https://example.com\"}]]}"
-    }
-  }
-}
+{}
